@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524878032 source:d:\github\simple-hash-table\3358_1_martinez_patrick_optional_pg7.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
